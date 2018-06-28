@@ -1,0 +1,11 @@
+Found a 7 line (37 tokens) duplication in the following files: 
+Starting at line 5 of C:\Users\subrahmanyam.o\eclipse-workspace\DemoOnGithub\src\main\java\com\demo\test\HelloWorld.java
+Starting at line 4 of C:\Users\subrahmanyam.o\eclipse-workspace\DemoOnGithub\src\main\java\com\demo\test\Test.java
+
+public static void main(String args[]) {
+	System.out.println("*********Hii*********");
+	System.out.print("Hello World");
+	System.out.print("Hello World");
+
+}
+}

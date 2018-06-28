@@ -1,0 +1,8 @@
+src/main/java/com/demo/test/HelloWorld.java:3:	headerCommentRequirement Required
+src/main/java/com/demo/test/HelloWorld.java:4:	To avoid mistakes add a comment at the beginning of the name field if you want a default access modifier
+src/main/java/com/demo/test/HelloWorld.java:4:	Use explicit scoping instead of the default package private level
+src/main/java/com/demo/test/HelloWorld.java:4:	fieldCommentRequirement Required
+src/main/java/com/demo/test/HelloWorld.java:5:	Parameter 'args' is not assigned and could be declared final
+src/main/java/com/demo/test/HelloWorld.java:5:	publicMethodCommentRequirement Required
+src/main/java/com/demo/test/HelloWorld.java:6:	System.out.println is used
+src/main/java/com/demo/test/HelloWorld.java:7:	System.out.print is used
