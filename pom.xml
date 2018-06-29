@@ -52,7 +52,7 @@
                   <minimumTokens>100</minimumTokens>
                   <linkXref>true</linkXref>
                   <rulesets>
-                      <ruleset>${project.basedir}/.pmd.xml</ruleset>
+                    <ruleset>/rulesets/basic.xml</ruleset>
                   </rulesets>
                   <failOnViolation>false</failOnViolation>
                     

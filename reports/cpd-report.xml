@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="Cp1252"?>
 <pmd-cpd>
-   <duplication lines="7" tokens="37">
-      <file line="5"
-            path="C:\Users\subrahmanyam.o\eclipse-workspace\DemoOnGithub\src\main\java\com\demo\test\HelloWorld.java"/>
-      <file line="4"
+   <duplication lines="8" tokens="38">
+      <file line="3"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\DemoOnGithub\src\main\java\com\demo\test\CopyTest.java"/>
+      <file line="3"
             path="C:\Users\subrahmanyam.o\eclipse-workspace\DemoOnGithub\src\main\java\com\demo\test\Test.java"/>
-      <codefragment><![CDATA[public static void main(String args[]) {
-	System.out.println("*********Hii*********");
-	System.out.print("Hello World");
-	System.out.print("Hello World");
+      <codefragment><![CDATA[public class CopyTest {
+	public static void main(String args[]) {
+		System.out.println("*********(Hii)*********");
+		System.out.print("Hello World");
+		System.out.print("Hello World");
 
-}
+	}
 }]]></codefragment>
    </duplication>
 </pmd-cpd>

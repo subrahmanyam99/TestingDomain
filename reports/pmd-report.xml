@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="5.8.0" timestamp="2018-06-28T17:37:18.399">
+<pmd version="5.8.0" timestamp="2018-06-29T09:57:21.610">
 <file name="src/main/java/com/demo/test/HelloWorld.java">
+<violation beginline="3" endline="11" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="com.demo.test" class="HelloWorld" externalInfoUrl="https://pmd.github.io/pmd-5.8.0/pmd-java/rules/java/design.html#UseUtilityClass" priority="3">
+All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
 <violation beginline="3" endline="11" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Comments" package="com.demo.test" class="HelloWorld" externalInfoUrl="https://pmd.github.io/pmd-5.8.0/pmd-java/rules/java/comments.html#CommentRequired" priority="3">
 headerCommentRequirement Required
 </violation>
